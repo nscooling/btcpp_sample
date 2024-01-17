@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Out of source build directory
+build/
